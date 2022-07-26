@@ -1,4 +1,5 @@
 # Todo_App
 Developed using react js  and node js.
-![Screenshot (19)](https://user-images.githubusercontent.com/108580134/181052826-2a0fdf91-2f2c-4f42-af9f-88b33f3664a0.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/108580134/181052836-0ee01b47-7562-4552-85ae-60735f447cab.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/108580134/181052946-81f750ca-7435-4ddb-9235-faa73d30fd14.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/108580134/181052952-cbadd28c-c64a-47c8-bd54-0bde62e136fc.png)
